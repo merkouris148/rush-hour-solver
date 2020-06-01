@@ -1,3 +1,8 @@
+{-
+  This code has been tested in GHCi, version 8.0.2
+  Authos: Merkouris Papamichail, Antonia Tsili
+-}
+
 import Data.Map as Map
 import Data.Set as Set
 
