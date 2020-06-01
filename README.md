@@ -89,4 +89,4 @@ Calling the function ```solve (readState "...a\n==.a\n....\n....\n")``` in GHCi 
 The file **rush_hour.pdf** contains a detailed description of the assignment's requirements (in Greek), while in **README.pdf** we describe in detail the implementation.
 
 ### Issues
-If a sting-state is given to ```solve``` or ```solve_astar``` the function will _not_ terminate.
+If a sting-state is given to ```solve``` (or ```solve_astar```) the function will _not_ terminate.
